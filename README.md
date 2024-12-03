@@ -50,10 +50,10 @@ The study explores:
 - Correct classifications focused on hand contours.
 - Misclassifications were often due to incomplete hands or unconventional gestures.
 
-<img src="heatmap-example.png" alt="Heatmap example" width="500px">
+<img src="www/heatmap-example.png" alt="Heatmap example" width="800px">
 
 #### Kernel Activations:
 - The VGG16 kernels retained texture-detection biases from ImageNet, emphasizing the need for fine-tuning.
 - Custom models demonstrated effective edge and shadow detection.
 
-<img src="kernel-activation.png" alt="Kernel activation example" width="500px">
+<img src="www/kernel-activation.png" alt="Kernel activation example" width="800px">
